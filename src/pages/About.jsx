@@ -6,7 +6,7 @@ export default function About() {
           <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">
             À propos
           </h1>
-          <p className="my-8 text-justify text-lg text-gray-800 sm:text-xl/8">
+          <p className="my-8 text-justify text-lg text-gray-900 sm:text-xl/8">
             Nous avons accompagné nos clients dans la structuration et la
             recherche de financements, qu’ils soient bancaires ou privés. Nous
             avons observé que l’accès au financement est devenu de plus en plus
@@ -68,7 +68,7 @@ export default function About() {
               <h3 className="mt-6 text-lg/8 font-semibold tracking-tight">
                 Laura BEAUFORT
               </h3>
-              <p className="text-base/7 text-gray-800">
+              <p className="text-base/7 text-gray-900">
                 Laura est titulaire d’un Master 2 en Corporate Finance et a
                 commencé sa carrière dans l’immobilier chez Patrizia. Désireuse
                 de découvrir une entreprise plus agile, elle rejoint ensuite
@@ -92,7 +92,7 @@ export default function About() {
               <h3 className="mt-6 text-lg/8 font-semibold tracking-tight">
                 Kevin FORGES
               </h3>
-              <p className="text-base/7 text-gray-800">
+              <p className="text-base/7 text-gray-900">
                 Titulaire d’un Master 2 en Audit et Conseil, Kevin commence sa
                 carrière chez BDO. Après quatre années d’expérience en audit au
                 sein du groupe, il se tourne vers le conseil et se spécialise
@@ -152,7 +152,7 @@ export default function About() {
               <h3 className="mt-6 text-lg/8 font-semibold tracking-tight">
                 Sylvie LERAT
               </h3>
-              <p className="text-base/7 text-gray-800">
+              <p className="text-base/7 text-gray-900">
                 Sylvie s’appuie sur ses 25 années d’expérience au sein des
                 services des impôts, puis en tant qu’avocate en Droit des
                 sociétés et en Droit fiscal pour conseiller les PME et leurs
@@ -175,7 +175,7 @@ export default function About() {
               <h3 className="mt-6 text-lg/8 font-semibold tracking-tight">
                 Clément MARQUEZ
               </h3>
-              <p className="text-base/7 text-gray-800">
+              <p className="text-base/7 text-gray-900">
                 Professionnel chevronné avec plus de 15 ans d’expérience dans
                 les domaines de la gestion industrielle, de l’innovation et du
                 conseil stratégique en France et à l’étranger. Sa carrière

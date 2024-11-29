@@ -7,18 +7,18 @@ export default function Services() {
             <h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
               Une gestion complète de l’opération
             </h2>
-            <p className="mt-2 text-lg/8 text-gray-600">
+            <p className="mt-5 text-lg/8 text-gray-900">
               Nos experts vous accompagnent en amont de l’opération, notamment
               dans la structuration, pour optimiser chaque étape du processus.
             </p>
           </div>
-          <div className="mx-auto mt-10  border-t border-gray-200 pt-10 flex flex-col gap-10 lg:gap-0 lg:flex-row justify-between">
-            <div className="flex max-w-sm flex-col items-start justify-between">
+          <div className="mx-auto mt-10  border-t border-gray-200 pt-10 flex items-center flex-col gap-10 lg:gap-0 lg:flex-row justify-between">
+            <div className="flex max-w-sm flex-col justify-between">
               <div className="group relative">
                 <h3 className="mt-3 text-2xl font-semibold text-gray-900">
                   Conseils à l’acquisition
                 </h3>
-                <p className="mt-3 line-clamp-3 mb-5 text-gray-800">
+                <p className="mt-3 line-clamp-3 mb-5 text-gray-900">
                   Nous accompagnons nos clients dans tout le processus
                   d’acquisition :
                 </p>
@@ -31,12 +31,12 @@ export default function Services() {
                 <li>Due diligence</li>
               </ul>
             </div>
-            <div className="flex max-w-sm flex-col items-start justify-between">
+            <div className="flex max-w-sm flex-col justify-between">
               <div className="group relative">
                 <h3 className="mt-3 text-2xl font-semibold text-gray-900">
                   Conseils à l’asset management
                 </h3>
-                <p className="mt-3 line-clamp-3 mb-3 text-gray-800">
+                <p className="mt-3 line-clamp-3 mb-3 text-gray-900">
                   Nous accompagnons nos client dans tout le suivi de projet :
                 </p>
               </div>

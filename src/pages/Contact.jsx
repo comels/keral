@@ -6,7 +6,7 @@ export default function Contact() {
           <h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
             Contact
           </h2>
-          <p className="mt-6 text-lg/8 text-gray-600">
+          <p className="mt-6 text-lg/8 text-gray-900">
             N'hésitez pas à nous contacter par mail si vous avez une question.
           </p>
         </div>
@@ -18,7 +18,7 @@ export default function Contact() {
             <h3 className="border-l border-[#01575c] pl-6 font-medium text-gray-900">
               Directeur général
             </h3>
-            <address className="border-l border-gray-200 pl-6 pt-2 not-italic text-gray-600">
+            <address className="border-l border-gray-200 pl-6 pt-2 not-italic text-gray-700">
               <p>l.beaufort@keral-capital.fr</p>
               <p>0613873714</p>
             </address>
@@ -30,7 +30,7 @@ export default function Contact() {
             <h3 className="border-l border-[#01575c] pl-6 font-medium text-gray-900">
               Président
             </h3>
-            <address className="border-l border-gray-200 pl-6 pt-2 not-italic text-gray-600">
+            <address className="border-l border-gray-200 pl-6 pt-2 not-italic text-gray-700">
               <p>k.forges@keral-capital.fr</p>
               <p>0648066209</p>
             </address>

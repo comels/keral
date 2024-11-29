@@ -83,28 +83,28 @@ export default function Nav() {
                 <Link
                   to="/about"
                   onClick={() => setMobileMenuOpen(false)}
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-gray-600 hover:text-gray-900"
                 >
                   À propos
                 </Link>
                 <Link
                   to="/services"
                   onClick={() => setMobileMenuOpen(false)}
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-gray-600 hover:text-gray-900"
                 >
                   Services
                 </Link>
                 <Link
                   to="/150"
                   onClick={() => setMobileMenuOpen(false)}
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-gray-600 hover:text-gray-900"
                 >
                   150-0 B ter
                 </Link>
                 <Link
                   to="/contact"
                   onClick={() => setMobileMenuOpen(false)}
-                  className="-mx-3 block rounded-lg px-3 py-2 text-base font-semibold text-gray-900 hover:bg-gray-50"
+                  className="-mx-3 block rounded-lg px-3 py-2 text-gray-600 hover:text-gray-900"
                 >
                   Contact
                 </Link>
