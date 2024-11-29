@@ -1,8 +1,8 @@
 export default function centcinquante() {
   return (
-    <div className="bg-stone-100 px-6 py-32 lg:px-8">
+    <div className="bg-stone-100 px-6 py-12 lg:py-24 lg:px-8">
       <div className="mx-auto max-w-3xl text-gray-900">
-        <h1 className="mt-2 text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
+        <h1 className="mt-2 text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
           Le 150-0 B ter
         </h1>
         <p className="mt-6 text-lg">
@@ -23,7 +23,7 @@ export default function centcinquante() {
             Le réinvestissement doit se faire dans les emplois visés au 2° du I
             de l’article 150-0 B ter du CGI, notamment:
           </p>
-          <ul className="mt-8 max-w-xl font-light text-base list-disc list-inside space-y-8 text-gray-900">
+          <ul className="mt-8 max-w-xl text-lg list-disc list-inside space-y-8 text-gray-900">
             <li>
               Dans le financement de moyens permanents d’exploitation affectés à
               son activité opérationnelle;
@@ -50,7 +50,7 @@ export default function centcinquante() {
             immobilisés dans l’opération immobilière pendant une durée minimale
             d’un an et non cinq.
           </p>
-          <h2 className="mt-16 text-pretty text-3xl font-semibold tracking-tight text-gray-900">
+          <h2 className="mt-16 text-3xl font-semibold tracking-tight text-gray-900">
             Immobilier :
           </h2>
           <p className="mt-6">
@@ -66,7 +66,7 @@ export default function centcinquante() {
           <img
             alt=""
             src="./image.png"
-            className="aspect-video mx-auto rounded-xl object-cover"
+            className="mx-auto rounded-xl object-cover"
           />
         </figure>
         <div className="mt-16 text-lg">

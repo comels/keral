@@ -10,7 +10,7 @@ const navigation = {
   social: [
     {
       name: "LinkedIn",
-      href: "https://www.linkedin.com",
+      href: "https://www.linkedin.com/company/keral-capital",
       icon: (props) => (
         <svg
           fill="currentColor"
@@ -28,11 +28,11 @@ const navigation = {
 export default function Footer() {
   return (
     <footer className="bg-white">
-      <div className="mx-auto max-w-7xl overflow-hidden px-6 pt-20 pb-10 lg:px-8">
+      <div className="mx-auto max-w-7xl overflow-hidden pt-20 pb-10 lg:px-8">
         {/* Navigation Menu */}
         <nav
           aria-label="Footer"
-          className="-mb-6 flex flex-wrap justify-center gap-x-12 gap-y-3 text-sm"
+          className="-mb-6 flex flex-wrap justify-center gap-x-5 gap-y-3 text-sm"
         >
           {navigation.main.map((item) => (
             <Link
@@ -63,7 +63,7 @@ export default function Footer() {
 
         {/* Footer Text */}
         <p className="mt-10 text-center text-sm text-gray-600">
-          &copy; 2024 Keral Capital, Inc. All rights reserved.
+          &copy; 2024 Keral Capital. All rights reserved.
         </p>
       </div>
     </footer>

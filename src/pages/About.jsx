@@ -2,11 +2,11 @@ export default function About() {
   return (
     <div>
       <div className="bg-stone-100 px-10">
-        <div className="max-w-4xl mx-auto text-center py-20">
+        <div className="max-w-4xl mx-auto text-center py-12 lg:py-24">
           <h1 className="text-4xl font-semibold tracking-tight sm:text-5xl">
             À propos
           </h1>
-          <p className="my-8 text-pretty text-lg text-gray-800 sm:text-xl/8">
+          <p className="my-8 text-justify text-lg text-gray-800 sm:text-xl/8">
             Nous avons accompagné nos clients dans la structuration et la
             recherche de financements, qu’ils soient bancaires ou privés. Nous
             avons observé que l’accès au financement est devenu de plus en plus
@@ -37,7 +37,7 @@ export default function About() {
       <div className="py-24 max-w-5xl mx-auto px-10">
         <div className="">
           <div className="mx-auto lg:mx-0">
-            <h2 className="text-pretty text-4xl font-semibold tracking-tight sm:text-5xl">
+            <h2 className="text-4xl font-semibold tracking-tight sm:text-5xl">
               Les Associés Fondateurs
             </h2>
             <p className="mt-6 text-lg/8">
@@ -48,8 +48,9 @@ export default function About() {
               <p className="mt-2">
                 Forts de notre expérience commune dans l’acquisition et le
                 financement de 250 millions d’euros d’actifs, nous avons décidé
-                de diversifier nos activités en accompagnant divers acteurs dans
-                leurs recherches de financements et leurs projets immobiliers.
+                de diversifier nos activités en accompagnant différents acteurs
+                dans leurs recherches de financements et leurs projets
+                immobiliers.
               </p>
             </p>
           </div>
@@ -109,7 +110,7 @@ export default function About() {
       <div className="py-24 bg-stone-100 ">
         <div className="max-w-5xl mx-auto px-10">
           <div className="mx-auto lg:mx-0">
-            <h2 className="text-pretty text-4xl font-semibold tracking-tight sm:text-5xl">
+            <h2 className="text-4xl font-semibold tracking-tight sm:text-5xl">
               Le réseau associé
             </h2>
             <p className="mt-6 text-lg/8">

@@ -1,10 +1,10 @@
 export default function Services() {
   return (
     <div className="bg-stone-100">
-      <div className=" py-24">
+      <div className="py-12 lg:py-24">
         <div className="mx-auto max-w-6xl px-6 lg:px-8">
           <div className="max-w-3xl">
-            <h2 className="text-pretty text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
+            <h2 className="text-4xl font-semibold tracking-tight text-gray-900 sm:text-5xl">
               Une gestion complète de l’opération
             </h2>
             <p className="mt-2 text-lg/8 text-gray-600">
