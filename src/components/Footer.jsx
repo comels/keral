@@ -6,6 +6,7 @@ const navigation = {
     { name: "Services", href: "/services" },
     { name: "150-0 B ter", href: "/150" },
     { name: "Contact", href: "/contact" },
+    { name: "Mentions légales", href: "/mentions" },
   ],
   social: [
     {

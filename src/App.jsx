@@ -4,6 +4,7 @@ import Centcinquante from "./pages/150";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
+import Mentions from "./pages/Mentions";
 import Services from "./pages/Services";
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/150" element={<Centcinquante />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/mentions" element={<Mentions />} />
         </Routes>
       </Layout>
     </Router>

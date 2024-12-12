@@ -1,6 +1,13 @@
 export default function Services() {
   return (
     <div className="bg-stone-100">
+      <div>
+        <img
+          src="./building-3.jpg"
+          alt=""
+          className="aspect-[14/4] w-full object-cover object-top"
+        />
+      </div>
       <div className="py-12 lg:py-24">
         <div className="mx-auto max-w-6xl px-6 lg:px-8">
           <div className="max-w-3xl">
